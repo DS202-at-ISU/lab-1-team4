@@ -22,12 +22,20 @@ you are done with your submission.
 Henry Tang: Since repository was done, didn’t need to do anything but
 clone
 
-12.3
+12.3 Norah Wade: Succesfully cloned the repo via RStudio.
 
-12.4
+Henry Tang: No problems here.
 
-Caleb Moe: This is a line from RStudio
+12.4 Caleb Moe: This is a line from RStudio
 
-Norah Wade: This is a line from RStudio:)
+Norah Wade: This is a line from RStudio:) Completed succesfully. Ran
+into some merge conflicts. Resolved through Git terminal because we were
+not familiar with RStudio handling Git conflicts.
 
 Henry Tang: This is a line from RStudio
+
+Isabel Lange: This is a line from RStudio
+
+12.5 Henry Tang: Pushed changes successfully
+
+12.6 Henry Tang: Yes, the commits and pushes went through to the repo
