@@ -22,3 +22,5 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 Caleb Moe:
 This is a line from RStudio
+
+Norah Wade: This is a line from RStudio:)
