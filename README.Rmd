@@ -31,9 +31,7 @@ Since repository was done, didn't need to do anything but clone
 Caleb Moe:
 This is a line from RStudio
 
-<<<<<<< HEAD
 Norah Wade: This is a line from RStudio:)
-=======
+
 Henry Tang:
 This is a line from RStudio
->>>>>>> 48c40cea95bbd2ee8bd096377cc89e3eec3baa29
