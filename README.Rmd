@@ -44,4 +44,9 @@ Isabel Lange:
 This is a line from RStudio
 
 12.5
+Henry Tang:
+Pushed changes successfully
 
+12.6
+Henry Tang:
+Yes, the commits and pushes went through to the repo
