@@ -24,10 +24,30 @@ clone
 
 12.3
 
-12.4
+Succesfully cloned the repo via RStudio.
+
+Henry Tang: No problems here.
+
+12.4 Completed succesfully. Ran into some merge conflicts. Resolved
+through Git terminal because we were not familiar with RStudio handling
+Git conflicts.
+
+12.5
 
 Caleb Moe: This is a line from RStudio
 
-Norah Wade: This is a line from RStudio:)
+Norah Wade: This is a line from RStudio:) Completed succesfully. Ran
+into some merge conflicts. Resolved through Git terminal because we were
+not familiar with RStudio handling Git conflicts.
 
 Henry Tang: This is a line from RStudio
+
+Isabel Lange: This is a line from RStudio
+
+12.5
+
+Henry Tang: Pushed changes successfully
+
+12.6
+
+Henry Tang: Yes, the commits and pushes went through to the repo
