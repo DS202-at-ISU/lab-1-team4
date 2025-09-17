@@ -17,4 +17,17 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
+12.2
+
+Henry Tang: Since repository was done, didn’t need to do anything but
+clone
+
+12.3
+
+12.4
+
 Caleb Moe: This is a line from RStudio
+
+Norah Wade: This is a line from RStudio:)
+
+Henry Tang: This is a line from RStudio
