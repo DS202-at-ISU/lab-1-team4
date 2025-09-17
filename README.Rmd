@@ -21,6 +21,9 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 12.2
 
+Henry Tang:
+Since repository was done, didn't need to do anything but clone
+
 12.3
 
 12.4
