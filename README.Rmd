@@ -30,8 +30,7 @@ Norah Wade: Succesfully cloned the repo via RStudio.
 
 Henry Tang: No problems here.
 
-
-this is will's comments
+Isabel Lange: Copied the repository link into RStudio.
 
 12.4
 Completed succesfully. Ran into some merge conflicts. Resolved
