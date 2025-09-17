@@ -24,6 +24,7 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 Henry Tang:
 Since repository was done, didn't need to do anything but clone
 
+Isabel Lange: Got the link from the repository
 12.3
 
 Norah Wade: Succesfully cloned the repo via RStudio. 
