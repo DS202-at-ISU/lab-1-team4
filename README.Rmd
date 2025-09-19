@@ -64,3 +64,6 @@ Isabel Lange: Followed steps to commit changes to repo
 
 Henry Tang:
 Yes, the commits and pushes went through to the repo
+
+Isabel Lange:
+Changes are shown in github
