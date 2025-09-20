@@ -24,7 +24,7 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 Henry Tang:
 Since repository was done, didn't need to do anything but clone
 
-<<<<<<< HEAD
+
 Norah Wade: 
 Repository was succesfully set up for us prior to lab.
 
@@ -45,23 +45,17 @@ Henry Tang: No problems here.
 Isabel Lange: Copied the repository link into RStudio.
 
 12.4
-<<<<<<< HEAD
-Norah Wade: 
 
+Norah Wade: 
 
 Completed succesfully. Ran into some merge conflicts. Resolved
 through Git terminal because we were not familiar with RStudio handling Git conflicts.
-
-12.5
-Norah Wade:
 
 
 Caleb Moe:
 This is a line from RStudio
 
 Norah Wade: This is a line from RStudio:)
-Completed succesfully. Ran into some merge conflicts. Resolved
-through Git terminal because we were not familiar with RStudio handling Git conflicts.
 
 Henry Tang:
 This is a line from RStudio
@@ -76,6 +70,8 @@ Pushed changes successfully
 
 Isabel Lange: Followed steps to commit changes to repo
 
+Norah Wade: Pushes were successful
+
 12.6
 
 Henry Tang:
@@ -83,3 +79,5 @@ Yes, the commits and pushes went through to the repo
 
 Isabel Lange:
 Changes are shown in github
+
+Norah Wade: Confirmed through commit history.
