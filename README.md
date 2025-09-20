@@ -23,8 +23,14 @@ Henry Tang: Since repository was done, didn’t need to do anything but
 clone
 
 12.3
+Succesfully cloned the repo via RStudio. 
 
 12.4
+Completed succesfully. Ran into some merge conflicts. Resolved
+through Git terminal because we were not familiar with RStudio handling Git conflicts.
+
+12.5
+
 
 Caleb Moe: This is a line from RStudio
 
