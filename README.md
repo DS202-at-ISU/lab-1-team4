@@ -27,10 +27,6 @@ Norah Wade: Repository was succesfully set up for us prior to lab.
 12.3 Norah Wade: Succesfully cloned the repo via RStudio. Isabel Lange:
 Got the link from the repository
 
-12.3
-
-Norah Wade: Succesfully cloned the repo via RStudio.
-
 Henry Tang: No problems here.
 
 Isabel Lange: Copied the repository link into RStudio.
