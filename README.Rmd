@@ -24,7 +24,7 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 Henry Tang:
 Since repository was done, didn't need to do anything but clone
 
-Isabel Lange: Got the link from the repository
+Isabel Lange: repo was already set up
 
 12.3
 
