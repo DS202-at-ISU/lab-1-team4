@@ -22,23 +22,34 @@ you are done with your submission.
 Henry Tang: Since repository was done, didn’t need to do anything but
 clone
 
+Isabel Lange: repo was already set up
+
+Caleb Moe: Repo was set up for us, just cloned it.
+
+Norah Wade: Repository was succesfully set up for us prior to lab.
+
 12.3
 
-Succesfully cloned the repo via RStudio.
+Norah Wade: Succesfully cloned the repo via RStudio.
+
+Caleb Moe: No Problems cloning repo, hardest part was just figuring out
+the layout of RStudio
 
 Henry Tang: No problems here.
 
-12.4 Completed succesfully. Ran into some merge conflicts. Resolved
-through Git terminal because we were not familiar with RStudio handling
-Git conflicts.
+Isabel Lange: Copied the repository link into RStudio.
 
-12.5
+12.4
+
+Norah Wade:
+
+Completed succesfully. Ran into some merge conflicts. Resolved through
+Git terminal because we were not familiar with RStudio handling Git
+conflicts.
 
 Caleb Moe: This is a line from RStudio
 
-Norah Wade: This is a line from RStudio:) Completed succesfully. Ran
-into some merge conflicts. Resolved through Git terminal because we were
-not familiar with RStudio handling Git conflicts.
+Norah Wade: This is a line from RStudio:)
 
 Henry Tang: This is a line from RStudio
 
@@ -48,6 +59,18 @@ Isabel Lange: This is a line from RStudio
 
 Henry Tang: Pushed changes successfully
 
+Isabel Lange: Followed steps to commit changes to repo
+
+Norah Wade: Pushes were successful
+
+Caleb Moe: Pushes were successful, no problems.
+
 12.6
 
+Caleb Moe: Pushes appear in github repo.
+
 Henry Tang: Yes, the commits and pushes went through to the repo
+
+Isabel Lange: Changes are shown in github
+
+Norah Wade: Confirmed through commit history.
