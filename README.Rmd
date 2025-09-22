@@ -23,6 +23,7 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 Henry Tang:
 Since repository was done, didn't need to do anything but clone
+
 Caleb Moe:
 Repo was set up for us, just cloned it.
 
@@ -30,6 +31,7 @@ Norah Wade:
 Repository was succesfully set up for us prior to lab.
 
 12.3
+
 Norah Wade: 
 Succesfully cloned the repo via RStudio. 
 
@@ -73,6 +75,7 @@ Norah Wade: Pushes were successful
 
 Caleb Moe: 
 Pushes were successful, no problems.
+
 12.6
 
 Caleb Moe:

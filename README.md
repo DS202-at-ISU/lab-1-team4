@@ -20,11 +20,15 @@ you are done with your submission.
 12.2
 
 Henry Tang: Since repository was done, didn’t need to do anything but
-clone Caleb Moe: Repo was set up for us, just cloned it.
+clone
+
+Caleb Moe: Repo was set up for us, just cloned it.
 
 Norah Wade: Repository was succesfully set up for us prior to lab.
 
-12.3 Norah Wade: Succesfully cloned the repo via RStudio.
+12.3
+
+Norah Wade: Succesfully cloned the repo via RStudio.
 
 Isabel Lange: Got the link from the repository
 
@@ -59,7 +63,9 @@ Isabel Lange: Followed steps to commit changes to repo
 
 Norah Wade: Pushes were successful
 
-Caleb Moe: Pushes were successful, no problems. 12.6
+Caleb Moe: Pushes were successful, no problems.
+
+12.6
 
 Caleb Moe: Pushes appear in github repo.
 
